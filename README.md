@@ -16,7 +16,5 @@
   * JavaScript
  
 
-- 📫 How to reach me: folme002@fiu.edu
-- 😄 Pronouns: She/Her
 
 
